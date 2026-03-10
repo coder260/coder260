@@ -82,9 +82,6 @@ Developed under **TCS Last Mile Salesforce Training Program**
 - Built using Salesforce tools and CRM workflows
 - Team-based development with industry practices
 
-🔗 GitHub Repository  
-https://github.com/coder260/Wholesaler-Order-Management-CRM
-
 ---
 
 ### RecuFaceNet – DeepFake Detection Framework
