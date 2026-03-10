@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Aditi Sharma</h1>
+<h1 align="center">Hello, I'm Aditi Sharma </h1>
 <h3 align="center">Artificial Intelligence | Data Science | Machine Learning Enthusiast</h3>
 
 <p align="center">
