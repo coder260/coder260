@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence | Data Science | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/aditi-sharma-556b2a321/)" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-sharma-556b2a321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aditi%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     <br>
